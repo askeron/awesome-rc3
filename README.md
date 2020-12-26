@@ -1,5 +1,5 @@
 # awesome link list for #rc3
-As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related links, that are not on the official link list.
+As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
 Feel free to start a pull request.
 
 ## rc3 itself
@@ -33,9 +33,9 @@ Feel free to start a pull request.
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
 
 ## Sticker Exchange
-- [1](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
+- [C3STOC](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
 - [Raumzeitlabor](https://raumzeitlabor.de/blog/Wir-kleben-weiter/)
-- [stratum0](https://stratum0.org/blog/posts/2020/11/19/rC3-remote-sticker-exchange/)
+- [Stratum 0](https://stratum0.org/blog/posts/2020/11/19/rC3-remote-sticker-exchange/)
 
 ## others
 - [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
