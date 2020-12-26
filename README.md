@@ -19,3 +19,4 @@ Feel free to start a pull request.
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
 
 ## others
+- [eventphone dial-in](https://twitter.com/eventphone/status/1342561159694725132)
