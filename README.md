@@ -16,8 +16,8 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Pretalx RC3 Studio](https://pretalx.rc3.studio/rc3-channels-2020/schedule/) - schedule of r3s - Monheim/Rhein, franconian.net, Chaos-West TV, hacc München / about:future, xhain Berlin
 - [Pretalx OIO](https://talks.rc3.oio.social/r3c-oio/schedule/) - schedule of OIO/A:F Bühne
 - [Pretalx ChaosZone](https://cfp.chaoszone.cz/csr20/schedule/) - ChaosZone streams and workshops
-- [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3 
-- [Heacksen Fahrplan](https://events.haecksen.org/)
+- [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3
+- [Haecksen Fahrplan](https://events.haecksen.org/) - schedule of haecksen
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
