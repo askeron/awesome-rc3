@@ -5,6 +5,7 @@ Feel free to start a pull request.
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
 - [rc3.world links](https://rc3.world/index.html#links)
+- [howto.rc3.world](https://howto.rc3.world/)
 
 ## schedules
 - [Fahrplan](https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/index.html) - official #rc3 schedule
