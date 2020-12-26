@@ -1,6 +1,8 @@
-# awesome link list for #rc3
+![Logo](./rc3linklist.svg)
+
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
 Feel free to start a pull request.
+
 
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
