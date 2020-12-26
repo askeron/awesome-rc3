@@ -10,6 +10,8 @@ Feel free to start a pull request.
 - [Fahrplan](https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/index.html) - official #rc3 schedule
 - [Pretalx RC3 Studio](https://pretalx.rc3.studio/rc3-channels-2020/schedule/) - schedule of r3s - Monheim/Rhein, franconian.net, Chaos-West TV, hacc München / about:future, xhain Berlin
 - [Pretalx OIO](https://talks.rc3.oio.social/r3c-oio/schedule/) - schedule of OIO/A:F Bühne
+- [Pretalx ChaosZone](https://cfp.chaoszone.cz/csr20/schedule/) - ChaosZone streams and workshops
+- [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3 
 
 ## pixelflut servers
 - [schenklklopfer](https://twitter.com/schenklklopfer/status/1342511609068068865)
