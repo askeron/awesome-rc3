@@ -33,7 +33,7 @@ Feel free to start a pull request.
 ## talk recommendations
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
 
-## Sticker Exchange
+## sticker exchange
 - [C3STOC](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
 - [Raumzeitlabor](https://raumzeitlabor.de/blog/Wir-kleben-weiter/)
 - [Stratum 0](https://stratum0.org/blog/posts/2020/11/19/rC3-remote-sticker-exchange/)
