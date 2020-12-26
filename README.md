@@ -6,6 +6,8 @@ Feel free to start a pull request.
 - [rc3.world](https://rc3.world/)
 - [rc3.world links](https://rc3.world/index.html#links)
 - [howto.rc3.world](https://howto.rc3.world/)
+- [Angelsystem](https://engelsystem.de/rc3)
+- [logo-generator](https://logogenerator.rc3.world/)
 
 ## schedules
 - [Fahrplan](https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/index.html) - official #rc3 schedule
@@ -29,6 +31,11 @@ Feel free to start a pull request.
 
 ## talk recommendations
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
+
+## Sticker Exchange
+- [1](https://stickeroperation.center/2020/10/26/c3-sticker-exchange/)
+- [Raumzeitlabor](https://raumzeitlabor.de/blog/Wir-kleben-weiter/)
+- [stratum0](https://stratum0.org/blog/posts/2020/11/19/rC3-remote-sticker-exchange/)
 
 ## others
 - [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
