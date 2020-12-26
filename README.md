@@ -1,7 +1,7 @@
 ![Logo](./rc3linklist.svg)
 
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
-Feel free to start a [pull request](https://github.com/askeron/awesome-rc3/edit/main/README.md).
+Feel free to start a [pull request](https://github.com/askeron/awesome-rc3/edit/master/README.md).
 
 
 ## rc3 itself
