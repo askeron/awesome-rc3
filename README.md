@@ -22,4 +22,4 @@ Feel free to start a pull request.
 
 ## others
 - [eventphone dial-in](https://twitter.com/eventphone/status/1342561159694725132)
-- [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/ - sendezentrum @ rc3 overview
+- [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
