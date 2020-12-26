@@ -40,5 +40,6 @@ Feel free to start a pull request.
 
 ## others
 - [Sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - Sendezentrum @ rc3 overview
+- [Herald News Show](https://newsshow.rc3.world/)
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883)
