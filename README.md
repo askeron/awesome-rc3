@@ -14,17 +14,20 @@ Feel free to start a pull request.
 - [Pretalx ChaosZone](https://cfp.chaoszone.cz/csr20/schedule/) - ChaosZone streams and workshops
 - [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3 
 
-## pixelflut servers
-- [schenklklopfer](https://twitter.com/schenklklopfer/status/1342511609068068865)
-- [rc3pixelflut](https://www.rc3pixelflut.de/)
-
-## talk rcommendations
-- [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
-
 ## media
 - [streams](https://streaming.media.ccc.de/)
 - [recordings](https://media.ccc.de/c/rc3)
 
-## others
+## eventphone
+- [GURU](https://guru3.eventphone.de/)
 - [eventphone dial-in](https://twitter.com/eventphone/status/1342561159694725132)
+
+## pixelflut servers
+- [schenklklopfer](https://twitter.com/schenklklopfer/status/1342511609068068865)
+- [rc3pixelflut](https://www.rc3pixelflut.de/)
+
+## talk recommendations
+- [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
+
+## others
 - [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
