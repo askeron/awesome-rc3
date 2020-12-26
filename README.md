@@ -7,7 +7,7 @@ Feel free to start a pull request.
 - [rc3.world links](https://rc3.world/index.html#links)
 - [howto.rc3.world](https://howto.rc3.world/)
 - [Angelsystem](https://engelsystem.de/rc3)
-- [logo-generator](https://logogenerator.rc3.world/)
+- [Logo-Generator](https://logogenerator.rc3.world/)
 
 ## schedules
 - [Fahrplan](https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/index.html) - official #rc3 schedule
@@ -17,8 +17,8 @@ Feel free to start a pull request.
 - [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3 
 
 ## media
-- [streams](https://streaming.media.ccc.de/)
-- [recordings](https://media.ccc.de/c/rc3)
+- [Streams](https://streaming.media.ccc.de/)
+- [Recordings](https://media.ccc.de/c/rc3)
 - [Infobeamer-Stream](http://live.hh.c3voc.de/hls/infobeamer/native_hd.m3u8)
 
 ## eventphone
