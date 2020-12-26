@@ -3,7 +3,6 @@
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
 [Pull request](https://github.com/askeron/awesome-rc3/edit/master/README.md) are welcome.
 
-
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
 - [rc3.world links](https://rc3.world/index.html#links)
@@ -18,7 +17,12 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Pretalx ChaosZone](https://cfp.chaoszone.cz/csr20/schedule/) - ChaosZone streams and workshops
 - [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3
 - [Haecksen Fahrplan](https://events.haecksen.org/) - schedule of haecksen
-- [VOC Fahrplan JSON](https://data.c3voc.de/rC3/everything.schedule.json)
+- [VOC Fahrplan JSON/XML](https://data.c3voc.de/rC3/)
+
+## schedule-android-apps
+none only for the rc3, but you can use these one with the alternative data-url https://data.c3voc.de/rC3/everything.schedule.xml
+- [36C3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule)
+- [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
