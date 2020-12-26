@@ -21,6 +21,7 @@ Feel free to start a pull request.
 ## eventphone
 - [GURU](https://guru3.eventphone.de/)
 - [eventphone dial-in](https://twitter.com/eventphone/status/1342561159694725132)
+- [Gelbe Seiten](https://guru3.eventphone.de/event.erb/gelbeseiten)
 
 ## pixelflut servers
 - [schenklklopfer](https://twitter.com/schenklklopfer/status/1342511609068068865)
