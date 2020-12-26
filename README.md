@@ -46,3 +46,7 @@ Feel free to start a [pull request](https://github.com/askeron/awesome-rc3/edit/
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883) (+49 5361 890286 8883)
+
+<style>
+  body {color: #c9d1d9}
+</style>
