@@ -17,7 +17,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Pretalx OIO](https://talks.rc3.oio.social/r3c-oio/schedule/) - schedule of OIO/A:F Bühne
 - [Pretalx ChaosZone](https://cfp.chaoszone.cz/csr20/schedule/) - ChaosZone streams and workshops
 - [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3
-- [Haecksen Fahrplan] (https://events.haecksen.org/) - schedule of haecksen
+- [Haecksen Fahrplan](https://events.haecksen.org/) - schedule of haecksen
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
