@@ -2,8 +2,6 @@
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related links, that are not on the official link list.
 Feel free to start a pull request.
 
-If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883)
-
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
 - [rc3.world links](https://rc3.world/index.html#links)
@@ -34,3 +32,5 @@ If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [
 
 ## others
 - [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
+
+If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883)
