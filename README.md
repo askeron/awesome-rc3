@@ -38,6 +38,6 @@ Feel free to start a pull request.
 - [Stratum 0](https://stratum0.org/blog/posts/2020/11/19/rC3-remote-sticker-exchange/)
 
 ## others
-- [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
+- [Sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - Sendezentrum @ rc3 overview
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883)
