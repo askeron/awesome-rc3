@@ -1,6 +1,7 @@
 # awesome link list for #rc3
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related links, that are not on the official link list.
 Feel free to start a pull request.
+If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883)
 
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
