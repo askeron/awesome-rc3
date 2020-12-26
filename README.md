@@ -19,7 +19,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Haecksen Fahrplan](https://events.haecksen.org/) - schedule of haecksen
 - [VOC Fahrplan JSON/XML](https://data.c3voc.de/rC3/)
 
-## schedule-android-apps
+## android-apps (schedule)
 none only for the rc3, but you can use these one with the alternative data-url https://data.c3voc.de/rC3/everything.schedule.xml
 - [36C3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule)
 - [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
