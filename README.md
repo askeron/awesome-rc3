@@ -19,7 +19,7 @@ Feel free to start a pull request.
 ## media
 - [Streams](https://streaming.media.ccc.de/)
 - [Recordings](https://media.ccc.de/c/rc3)
-- [Infobeamer-Stream](http://live.hh.c3voc.de/hls/infobeamer/native_hd.m3u8)
+- [Infobeamer-Stream](http://live.hh.c3voc.de/hls/infobeamer/native_hd.m3u8) - HLS-Stream
 
 ## eventphone
 - [GURU](https://guru3.eventphone.de/)
