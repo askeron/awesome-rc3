@@ -21,6 +21,10 @@ Feel free to start a pull request.
 ## talk rcommendations
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
 
+## media
+- [streams](https://streaming.media.ccc.de/)
+- [recordings](https://media.ccc.de/c/rc3)
+
 ## others
 - [eventphone dial-in](https://twitter.com/eventphone/status/1342561159694725132)
 - [sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - sendezentrum @ rc3 overview
