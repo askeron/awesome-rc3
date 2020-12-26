@@ -48,5 +48,6 @@ Feel free to start a [pull request](https://github.com/askeron/awesome-rc3/edit/
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) | ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
 <style>
-  body {color: #c9d1d9}
+  body {color: #c9d1d9, background-color: #0d1117}
+  a {color: #58a6ff}
 </style>
