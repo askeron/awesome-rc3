@@ -21,7 +21,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Pretalx Sendezentrum](https://fahrplan.das-sendezentrum.de/rc3/schedule/) - Sendezentrum @ rC3
 - [Haecksen Fahrplan](https://events.haecksen.org/) - schedule of haecksen
 - [VOC Fahrplan JSON/XML](https://data.c3voc.de/rC3/)
-- [Plaintext Fahrplan (Gemini)](gemini://tilde.pink/~w/rc3/)
+- [Plaintext Fahrplan (Gemini)](https://portal.mozz.us/gemini/tilde.pink/~w/rc3/)
 
 ## android-apps (schedule)
 none directly for the rc3, but you can use one of these with an alternative data-url: [https://data.c3voc.de/rC3/everything.schedule.xml](https://data.c3voc.de/rC3/everything.schedule.xml)
