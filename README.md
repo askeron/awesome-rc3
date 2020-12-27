@@ -11,7 +11,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [howto.rc3.world](https://howto.rc3.world/)
 - [Angelsystem](https://engelsystem.de/rc3)
 - [Logo-Generator](https://logogenerator.rc3.world/)
-- [rc3 Status](https://status.c3events.de/)
+- [Status Page](https://status.c3events.de/)
 
 ## schedules
 - [Fahrplan](https://rc3.world/rc3/public_fahrplan/) - official #rc3 schedule (work in progress, currently you have to scroll out to see all rooms) 
@@ -62,6 +62,7 @@ none directly for the rc3, but you can use one of these with an alternative data
 - [Herald News Show](https://newsshow.rc3.world/)
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
 - [Chaos Post](https://rc3.c3post.de/)
+- [IRC-Rooms](https://rc3.world/rc3/board/284) - list of twitter-hashtags and IRC-channels on hackint
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
