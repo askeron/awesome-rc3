@@ -63,4 +63,5 @@ If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ 
 <style>
   body {color: #c9d1d9; background-color: #0d1117}
   a {color: #58a6ff}
+  h3 {display: none}
 </style>
