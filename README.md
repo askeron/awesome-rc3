@@ -21,7 +21,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [VOC Fahrplan JSON/XML](https://data.c3voc.de/rC3/)
 
 ## android-apps (schedule)
-none directly for the rc3, but you can use these one with an alternative data-url: [https://data.c3voc.de/rC3/everything.schedule.xml](https://data.c3voc.de/rC3/everything.schedule.xml)
+none directly for the rc3, but you can use one of these with an alternative data-url: [https://data.c3voc.de/rC3/everything.schedule.xml](https://data.c3voc.de/rC3/everything.schedule.xml)
 - [36C3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule)
 - [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
 
