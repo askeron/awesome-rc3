@@ -31,8 +31,8 @@ none directly for the rc3, but you can use one of these with an alternative data
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
+- [Streams direct links](https://hackmd.io/hUlxlU-bQn-woYFz9SOoQw) - if streaming.media.ccc.de is down
 - [Recordings](https://media.ccc.de/c/rc3)
-- [Infobeamer-Stream](http://live.hh.c3voc.de/hls/infobeamer/native_hd.m3u8) - HLS-Stream
 - [C3Pausenmusik](https://www.youtube.com/watch?v=C23E5grsczE)
 
 ## apps (media)
