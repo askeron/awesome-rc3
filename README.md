@@ -1,6 +1,6 @@
 ![Logo](./rc3linklist.svg)
 
-[links.rc3.io](links.rc3.io)
+[https://links.rc3.io/](https://links.rc3.io/)
 
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
 [Pull request](https://github.com/askeron/awesome-rc3/edit/master/README.md) are welcome.
