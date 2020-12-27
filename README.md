@@ -54,6 +54,7 @@ none directly for the rc3, but you can use one of these with an alternative data
 - [Sendezentrum](https://das-sendezentrum.de/das-sendezentrum-auf-dem-rc3/) - Sendezentrum @ rc3 overview
 - [Herald News Show](https://newsshow.rc3.world/)
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
+- [Chaos Post](https://rc3.c3post.de/)
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
