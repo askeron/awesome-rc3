@@ -11,6 +11,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [howto.rc3.world](https://howto.rc3.world/)
 - [Angelsystem](https://engelsystem.de/rc3)
 - [Logo-Generator](https://logogenerator.rc3.world/)
+- [rc3 Status](https://status.c3events.de/)
 
 ## schedules
 - [Fahrplan](https://rc3.world/rc3/public_fahrplan/) - official #rc3 schedule (work in progress, currently you have to scroll out to see all rooms) 
