@@ -28,16 +28,16 @@ none directly for the rc3, but you can use one of these with an alternative data
 - [36C3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule)
 - [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
 
-## apps (media)
-- [Android/FireTV](https://github.com/NiciDieNase/chaosflix)
-- [iOS/MACTV](https://congress.conference.systems/)
-- [Kodi](https://github.com/voc/plugin.video.media-ccc-de)
-
 ## media
 - [Streams](https://streaming.media.ccc.de/)
 - [Recordings](https://media.ccc.de/c/rc3)
 - [Infobeamer-Stream](http://live.hh.c3voc.de/hls/infobeamer/native_hd.m3u8) - HLS-Stream
 - [C3Pausenmusik](https://www.youtube.com/watch?v=C23E5grsczE)
+
+## apps (media)
+- [Android/FireTV](https://github.com/NiciDieNase/chaosflix)
+- [iOS/MACTV](https://congress.conference.systems/)
+- [Kodi](https://github.com/voc/plugin.video.media-ccc-de)
 
 ## eventphone
 - [GURU](https://guru3.eventphone.de/)
