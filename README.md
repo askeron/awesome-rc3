@@ -5,7 +5,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
-- [rc3.world links](https://rc3.world/index.html#links)
+- [rc3.world links](https://links.rc3.world/)
 - [howto.rc3.world](https://howto.rc3.world/)
 - [Angelsystem](https://engelsystem.de/rc3)
 - [Logo-Generator](https://logogenerator.rc3.world/)
