@@ -25,9 +25,13 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [Plaintext Fahrplan (Gemini)](https://portal.mozz.us/gemini/tilde.pink/~w/rc3/)
 
 ## android-apps (schedule)
+### Google Play Store
 none directly for the rc3, but you can use one of these with an alternative data-url: [https://data.c3voc.de/rC3/everything.schedule.xml](https://data.c3voc.de/rC3/everything.schedule.xml)
 - [36C3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.congress.schedule)
 - [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
+
+### manual installation via apk
+- [rC3 Fahrplan](https://github.com/EventFahrplan/EventFahrplan/releases/tag/v.1.48.0) - release on Github
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
