@@ -67,6 +67,7 @@ none directly for the rc3, but you can use one of these with an alternative data
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
 - [Chaos Post](https://rc3.c3post.de/)
 - [IRC-Rooms](https://rc3.world/rc3/board/284) - list of twitter-hashtags and IRC-channels on hackint
+- [OBS Camera Fix in Chrome](https://github.com/johannes-hafner/rc3) - fixes the problem with the first Cam used by another Program such as OBS # Thanks to johannes
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
