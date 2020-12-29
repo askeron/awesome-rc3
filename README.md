@@ -32,7 +32,7 @@ none directly for the rc3, but you can use one of these with an alternative data
 - [Giggity](https://play.google.com/store/apps/details?id=net.gaast.giggity)
 
 ### manual installation via apk
-- [rC3 Fahrplan](https://github.com/EventFahrplan/EventFahrplan/releases/tag/v.1.48.1) - release on Github
+- [rC3 Fahrplan](https://github.com/EventFahrplan/EventFahrplan/releases/latest) - release on Github
 
 ## media
 - [Streams](https://streaming.media.ccc.de/)
