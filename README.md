@@ -69,6 +69,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 - [IRC-Rooms](https://rc3.world/rc3/board/284) - list of twitter-hashtags and IRC-channels on hackint
 - [OBS Camera Fix in Chrome](https://github.com/johannes-hafner/rc3) - fixes the problem with the first Cam used by another Program such as OBS # Thanks to johannes
 - [2D World User Counter](https://static.emile.space/0e6e6fd4-8c45-47f2-bf12-8ab0a9943552/)
+- [2D World Local Copy](https://twitter.com/NerdUser83/status/1344285085571411968) - get your own playable copy of the #rc3 #2d-world now. Only downloadable for today and only for personal use 
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
