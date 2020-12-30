@@ -51,7 +51,7 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 ## pixelflut servers
 - [schenklklopfer](https://twitter.com/schenklklopfer/status/1342511609068068865)
 - [rc3pixelflut](https://www.rc3pixelflut.de/)
-- [uwu Pixelflut](https://twitter.com/patagona/status/1344079992305680385) (flut via uwu.industries:1234, watch output via http://uwu.industries:8080/ (very experimental, may break at any time)
+- [uwu Pixelflut](https://twitter.com/patagona/status/1344079992305680385) - very experimental, may break at any time
 
 ## talk recommendations
 - [netzpolitik.org](https://netzpolitik.org/2020/programmempfehlungen-fuer-pandemie-kompatibles-online-chaos/)
