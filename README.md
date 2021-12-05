@@ -12,6 +12,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [rc3.world](https://rc3.world/)
 - [rc3.world links](https://links.rc3.world/)
 - [howto.rc3.world](https://howto.rc3.world/)
+- [first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
 
 ## schedules
 
