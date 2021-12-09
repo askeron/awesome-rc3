@@ -1,6 +1,6 @@
 ![Logo](./rc3linklist.svg)
 
-## updated for rc3 2021
+## updated for rc3 2021 NOWHERE
 
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
 [Pull request](https://github.com/askeron/awesome-rc3/edit/master/README.md) are welcome.
@@ -13,6 +13,9 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [rc3.world links](https://links.rc3.world/)
 - [howto.rc3.world](https://howto.rc3.world/)
 - [first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
+
+## preperations
+- [Flora Mate special edition](https://shop.hofgarten.com/products/neue-sonderedition-rc3-2021-nowhere)
 
 ## schedules
 
