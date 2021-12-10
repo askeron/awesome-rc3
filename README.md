@@ -18,6 +18,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [Flora Mate special edition](https://shop.hofgarten.com/products/neue-sonderedition-rc3-2021-nowhere)
 
 ## schedules
+- [haecksen](https://pretalx.c3voc.de/rc3-2021-haecksen/schedule/)
 
 ## android-apps (schedule)
 ### Google Play Store
