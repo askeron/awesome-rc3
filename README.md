@@ -6,12 +6,11 @@ As we all are waiting at home for the rc3 to start, there is no wiki yet and I t
 [Pull request](https://github.com/askeron/awesome-rc3/edit/master/README.md) are welcome.
 For the old linklist of 2020 take a look in the [archive](https://github.com/askeron/awesome-rc3/blob/master/archive-2020.md).
 
-### official Link List: [https://links.rc3.world/](https://links.rc3.world/)
-While this is a community project. There is an official link list here: [https://links.rc3.world/](https://links.rc3.world/)
+### official URL for this list: [https://links.rc3.world/](https://links.rc3.world/)
 
 ## rc3 itself
 - [rc3.world](https://rc3.world/)
-- [rc3.world links](https://links.rc3.world/)
+- [rc3.world official link list](https://links.rc3.world/)
 - [howto.rc3.world](https://howto.rc3.world/)
 - [first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
 
