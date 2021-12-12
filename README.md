@@ -46,7 +46,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [C3STOC](https://stickeroperation.center/)
 
 ## others
-- [Sendezentrum](https://das-sendezentrum.de/blog/) - Sendezentrum
+- [Sendezentrum](https://sendegate.de/t/sendezentrum-rc3-2021/14697)
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
 - [Chaos Post](https://www.c3post.de/)
 - [OBS Camera Fix in Chrome](https://github.com/johannes-hafner/rc3) - fixes the problem with the first Cam used by another Program such as OBS # Thanks to johannes
