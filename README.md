@@ -1,5 +1,11 @@
 ![Logo](./rc3linklist.svg)
 
+# DISCLAIMER
+
+This is an **unoffical** community project.
+
+## the official link list can be found here: [https://links.rc3.world/](https://links.rc3.world/)
+
 ## updated for rc3 2021 NOWHERE
 
 As we all are waiting at home for the rc3 to start, there is no wiki yet and I thought we could collect all rc3 related linkst.
