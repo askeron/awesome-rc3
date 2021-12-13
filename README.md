@@ -1,4 +1,4 @@
-![Logo](./rc3linklist.svg)
+![Logo](./rc3linklist2.svg)
 
 # DISCLAIMER
 
