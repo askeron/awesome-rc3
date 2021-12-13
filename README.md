@@ -25,17 +25,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [MateMonkey](https://matemonkey.com/) - Find Mate dealers around you
 
 ## schedules
-- [about:future / hacc München](https://pretalx.c3voc.de/rc3-2021-hacc-a-f/schedule/)
-- [ChaosWest TV](https://pretalx.c3voc.de/rc3-2021-cwtv/schedule/)
-- [c-base](https://pretalx.c3voc.de/rc3-2021-cbase/schedule/)
-- [Remote Rhein Ruhr Stage](https://pretalx.c3voc.de/rc3-2021-r3s/schedule/)
-- [Gehacktes from Hell](https://pretalx.c3voc.de/rc3-2021-gehacktes-from-hell/schedule)
-- [xHain Lichtung](https://pretalx.c3voc.de/rc3-2021-xhain/schedule/)
-- [ChaosZone](https://pretalx.c3voc.de/rc3-2021-chaoszone/schedule/)
-- [ChaosStudio Hamburg](https://pretalx.c3voc.de/rc3-2021-chaosstudiohamburg/schedule/)
-- [haecksen](https://pretalx.c3voc.de/rc3-2021-haecksen/schedule/)
-- [Sendezentrum](https://pretalx.c3voc.de/rc3-2021-sendezentrum/schedule/)
-- [FeM](https://pretalx.c3voc.de/rc3-2021-fem/schedule/)
+- [pretalx.c3voc.de](https://pretalx.c3voc.de/)
 
 ## android-apps (schedule)
 ### Google Play Store
