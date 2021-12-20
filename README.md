@@ -19,7 +19,8 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [rc3.world official link list](https://links.rc3.world/)
 - [howto.rc3.world](https://howto.rc3.world/)
 - [styleguide](https://style.rc3.world/)
-- [tweet with first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
+- [RocketChat](https://chat.rc3.world/)
+- [Tickets](https://tickets.events.ccc.de/)
 
 ## preperations
 - [Flora Mate special edition](https://shop.hofgarten.com/products/neue-sonderedition-rc3-2021-nowhere)
@@ -58,6 +59,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [rc3.io](https://rc3.io/) - subdomain service for rc3
 - [Chaos Post](https://c3post.de/)
 - [OBS Camera Fix in Chrome](https://github.com/johannes-hafner/rc3) - fixes the problem with the first Cam used by another Program such as OBS # Thanks to johannes
+- [tweet with first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
