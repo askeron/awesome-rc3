@@ -61,6 +61,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [Chaos Post](https://c3post.de/)
 - [OBS Camera Fix in Chrome](https://github.com/johannes-hafner/rc3) - fixes the problem with the first Cam used by another Program such as OBS # Thanks to johannes
 - [tweet with first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
+- [tweet for inofficial merch](https://twitter.com/verstehbahnhof/status/1472535791398264839)
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) (+49 5361 890286 8883)
 
