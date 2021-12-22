@@ -47,6 +47,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 ## eventphone
 - [GURU](https://guru3.eventphone.de/)
 - [Gelbe Seiten](https://guru3.eventphone.de/event.erb/gelbeseiten)
+- [tweet with dial-in](https://twitter.com/eventphone/status/1473735835656896512)
 
 ## pixelflut servers
 
