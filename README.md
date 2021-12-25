@@ -30,6 +30,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [MateMonkey](https://matemonkey.com/) - Find Mate dealers around you
 
 ## schedules
+- [Fahrplan](https://rc3.world/2021/public_fahrplan)
 - [pretalx.c3voc.de](https://pretalx.c3voc.de/)
 - [digitalcourage](https://digitalcourage.de/rc3)
 - [franconian](https://cfp.franconian.net/)
