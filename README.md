@@ -31,6 +31,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 ## schedules
 - [pretalx.c3voc.de](https://pretalx.c3voc.de/)
 - [digitalcourage](https://digitalcourage.de/rc3)
+- [franconian](https://cfp.franconian.net/)
 - [Übersicht auf calendify](https://calendify.com/schedule/vEjw4Y7MQ1G?)
 
 ## android-apps (schedule)
