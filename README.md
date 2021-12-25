@@ -66,6 +66,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [tweet with first workadventure design update](https://twitter.com/Mu11ana/status/1466749205213556740)
 - [tweet for inofficial merch](https://twitter.com/verstehbahnhof/status/1472535791398264839)
 - [Pen&PaperBox](https://penpaperbox.com/con/21rc3)
+- [infobeamer CMS](https://infobeamer-cms.c3voc.de/)
 
 If you want to contact me: [@nerduser83](https://twitter.com/nerduser83) \| ☎ [8883](tel:8883) ([+49 221 59619 09 8883](tel:+4922159619098883))
 
