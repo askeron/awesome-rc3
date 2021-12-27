@@ -47,6 +47,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [Streams](https://streaming.media.ccc.de/)
 - [Recordings](https://media.ccc.de/c/rc3)
 - [C3Pausenmusik](https://www.youtube.com/watch?v=C23E5grsczE)
+- [whistleblower village 8-Bit Stream "Gema free"](https://rc3-hifi.streamproxy.rc3.world/stream.mp3)
 
 ## apps (media)
 - [Android/FireTV](https://github.com/NiciDieNase/chaosflix)
