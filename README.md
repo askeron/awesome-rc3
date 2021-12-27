@@ -60,6 +60,9 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [tweet with dial-in](https://twitter.com/eventphone/status/1473735835656896512)
 
 ## pixelflut servers
+- schenklklopfer
+    - Pixeln: rc3.schenklklopfer.de:1234
+    - VNC: vnc.schenklklopfer.de:5900
 
 ## talk recommendations
 
