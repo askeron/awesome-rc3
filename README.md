@@ -38,6 +38,8 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [Übersicht auf calendify](https://calendify.com/schedule/vEjw4Y7MQ1G?)
 
 ## android-apps (schedule)
+### F-Droid
+- [rC3 Fahrplan](https://f-droid.org/de/packages/info.metadude.android.rc3.schedule/)
 ### Google Play Store
 - [rC3 Fahrplan](https://play.google.com/store/apps/details?id=info.metadude.android.rc3.schedule)
 
