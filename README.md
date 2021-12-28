@@ -24,6 +24,7 @@ For the old linklist of 2020 take a look in the [archive](https://github.com/ask
 - [Engelsystem](https://engelsystem.rc3.world/)
 - [Merch](https://merch.rc3.world/products)
 - [Maschinenraum](https://maschinenraum.rc3.world/)
+- [Status page](https://status.c3events.de/)
 
 ## preperations
 - [Flora Mate special edition](https://shop.hofgarten.com/products/neue-sonderedition-rc3-2021-nowhere)
